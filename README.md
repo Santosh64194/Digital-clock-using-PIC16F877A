@@ -22,7 +22,7 @@ This project implements a **24-hour digital clock** using the **DS1307 RTC** and
 * 16x2 LCD
 * 3 push-buttons (Set, +, -)
 * I2C pull-up resistors (4.7k)
-* Crystal oscillator (32.768 kHz for RTC)
+* Crystal oscillator (1MHz for RTC)
 * 5V regulated power supply
 
 ---
