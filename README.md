@@ -21,7 +21,7 @@ This project implements a **24-hour digital clock** using the **DS1307 RTC** and
 * DS1307 RTC module with battery
 * 16x2 LCD
 * 3 push-buttons (Set, +, -)
-* I2C pull-up resistors (4.7k)
+* I2C pull-up resistors
 * Crystal oscillator (1MHz for RTC)
 * 5V regulated power supply
 
@@ -39,7 +39,6 @@ This project implements a **24-hour digital clock** using the **DS1307 RTC** and
 
 * MikroC PRO for PIC
 * Proteus (for simulation)
-* MPLAB / PICkit (for flashing)
 
 ---
 
